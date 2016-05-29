@@ -1,0 +1,27 @@
+{
+  "name": "keva",
+  "version": "1.0.0",
+  "description": "Object iterator for for...of statements. Credit goes to http://stackoverflow.com/a/29890536",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiniXC/keva.git"
+  },
+  "keywords": [
+    "object",
+    "iterator",
+    "generator",
+    "yield",
+    "key",
+    "value"
+  ],
+  "author": "Christoph Minixhofer <christoph.minixhofer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiniXC/keva/issues"
+  },
+  "homepage": "https://github.com/MiniXC/keva#readme"
+}
