@@ -2,6 +2,8 @@
 
 module.exports = function*(obj) {
    for (let key of Object.keys(obj)) {
-     yield [key, obj[key]];
+     if(obj.hasOwnProperty(key)) {
+       yield [key, obj[key]];
+     }
    }
 }
