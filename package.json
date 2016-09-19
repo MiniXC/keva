@@ -1,6 +1,6 @@
 {
   "name": "keva",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Object iterator for for...of statements. Credit goes to http://stackoverflow.com/a/29890536",
   "main": "index.js",
   "scripts": {
